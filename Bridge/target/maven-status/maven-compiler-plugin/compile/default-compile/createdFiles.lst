@@ -1,0 +1,7 @@
+entidades\Transportacao.class
+entidades\Veiculo.class
+com\mycompany\bridge\Bridge.class
+entidades\TransporteTerra.class
+entidades\Aviao.class
+entidades\Carro.class
+entidades\TransporteAr.class
